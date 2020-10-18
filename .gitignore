@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Iago ###
+/src/main/resources/bootstrap.yml
+/src/main/resources/application.yml
